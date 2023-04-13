@@ -1,6 +1,6 @@
 # WeLoveMovies
 
-This project is designed to test your ability to build complex servers and access data through a database. To succeed at this project, you'll need to demonstrate that you can do the following tasks:
+This project was designed to test your ability to build complex servers and access data through a database. To succeed at this project, I needed to demonstrate that I could do the following tasks:
 
 Install and use common middleware packages
 
